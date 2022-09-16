@@ -1,0 +1,44 @@
+iis
+
+upfront broker
+introducer website--payment change for introdce--comsion genration
+
+nabbroker services--> used few different webiste
+g-->applications->web---->nanbroker services
+bdm, dashboard-->
+business portal, commison gui
+BP---->file serach
+admisntartion--product service, upload service mis error service
+security srvice --broker portal
+
+
+introducer commsion---powershell script--introdicer_to_rome_nbr file handler/scripts
+
+file import handler--open powershell---file export handler--file import handler
+
+xml front channel---IIS-->xml front---h--application--xml fornt channel
+print request
+xmlfront cahnnel output/ sxmlchannelv2output
+
+
+brpoker email control service
+xml doc engine--services ---xml doc enine running
+application--webseirve--->logs
+
+xml heart beat-->heartbeat is ticking
+doc printed ---xml doc engine---> stops 
+
+broker email control service--> rcti genrate
+commsion broker subs--
+commsion search-->show commsions
+ms-legacy -integration
+accounts--misc/account
+unmatched accounts
+
+https://sit1.nbr-app.nabbroker.extdev.national.com.au:8443/accounts/swagger/index.html
+
+
+
+
+
+
